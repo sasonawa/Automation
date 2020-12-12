@@ -1,1 +1,1 @@
-This repository is for automating snow software application with protractor
+This repository is for automating http://www.globalsqa.com application with protractor
